@@ -90,3 +90,12 @@ python pars.py
 * Частый запуск (каждые 10 секунд) может быть расценен сайтом как подозрительная активность — настройте интервал при необходимости
 * В Telegram отключён предпросмотр ссылок (`disable_web_page_preview=True`) для чистоты сообщения
 
+### Автор
+
+| **Name** | Faraday |
+|-------------------|---------|
+| **Old**          | 15      |
+| **Country** | Russian |
+| **Nickname** | KiAtsushi |
+| **Email** | [kiatsushi@ki.ru.net](mailto:kiatsushi@ki.ru.net) |
+| **Telegram** | [@KiAtsushi](https://t.me/KiAtsushi) |
